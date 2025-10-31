@@ -109,7 +109,6 @@ The preprocessing steps include:
 
 4. **Visualizations**: Review the results in the **Screenshots or Demo** section (graphs, plots, and other performance metrics). These will provide insights into the model's accuracy, prediction confidence, and performance across datasets.
 
----
 
 ## Contributions
 Contributions are welcome! To contribute:
@@ -122,7 +121,6 @@ Contributions are welcome! To contribute:
    
    Please make sure to follow the guidelines for contributing provided in the repository.
 
----
 
 ## Project Structure
 The project is organized as follows:
