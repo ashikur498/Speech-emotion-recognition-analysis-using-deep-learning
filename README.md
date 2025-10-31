@@ -139,16 +139,12 @@ The project is organized as follows:
 ---
 
 ## Citations & References
-- **S. P. K. et al.**, "Deep Learning for Speech Emotion Recognition," *Journal of Machine Learning Research*, 2020.
-- **S. H. Lee et al.**, "Hybrid CNN-LSTM Network for Emotion Recognition," *Proceedings of the 2021 IEEE International Conference on Speech Processing*, 2021.
-- **Librosa**: A Python package for audio and speech signal processing. Official documentation: [https://librosa.org/doc/latest/](https://librosa.org/doc/latest/).
-- **TensorFlow/Keras**: For building the deep learning models. Official documentation: [https://www.tensorflow.org/](https://www.tensorflow.org/).
+- will add later 
 
 ---
 
 ## Acknowledgments
-- Special thanks to the creators of the **TESS dataset**, which was essential in training and testing the model.
-- Acknowledgment to the open-source community, especially for the libraries **Librosa**, **TensorFlow**, **Keras**, and **Pandas**, which made this project possible.
+- Thanks mam 
 
 ---
 
