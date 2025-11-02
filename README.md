@@ -137,9 +137,11 @@ The project is organized as follows:
 - **Feature Selection**: The feature extraction process using **MFCCs** and **spectrograms** played a crucial role in the accuracy of the emotion recognition task.
 
 ---
+## Proposal Report 
+- [Open Project Report](final%20proposal.pdf)
 
 ## Citations & References
-- will add later 
+- 
 
 ---
 
