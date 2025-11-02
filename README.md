@@ -144,7 +144,7 @@ The project is organized as follows:
 ---
 
 ## Acknowledgments
-- Thanks mam 
+- Thanks to our honourable Mahbuba Habib mam for her kind support and motivation 
 
 ---
 
