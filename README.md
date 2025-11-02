@@ -140,8 +140,10 @@ The project is organized as follows:
 ## Proposal Report 
 - [Open Project Report](final%20proposal.pdf)
 
+---
+
 ## Citations & References
-- 
+- [Open Literature review Report](literature%20review.pdf)
 
 ---
 
