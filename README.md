@@ -54,7 +54,7 @@ The model utilizes a **hybrid CNN-LSTM architecture**:
 - **LSTM Layers**: Capture temporal dependencies in speech signals, enabling the model to understand the sequence of speech data.
   
 ## Kaggle Notebook
-[Open kaggle notebookt](Speech%20emotion%20recognition%20analysis%20using%20deep%20learning%20.ipynb)
+[Open kaggle notebook](Speech%20emotion%20recognition%20analysis%20using%20deep%20learning%20.ipynb)
 
 ## Preprocessing Steps
 The preprocessing steps include:
