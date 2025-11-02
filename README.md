@@ -17,6 +17,7 @@
 - [Contributions](#contributions)
 - [Project Structure](#project-structure)
 - [Challenges & Lessons Learned](#challenges--lessons-learned)
+- [Proposal Report](#proposal-report)
 - [Citations & References](#citations--references)
 - [Acknowledgments](#acknowledgments)
 - [Screenshots or Demo](#screenshots-or-demo)
