@@ -149,7 +149,7 @@ The project is organized as follows:
 ---
 
 ## Acknowledgments
-- Thanks to our honourable Mahbuba Habib mam for her kind support and motivation 
+- We would like to express our deepest gratitude to our honorable teacher, Mahbuba Habib Ma’am, Lecturer, Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT), for her invaluable guidance, continuous support, and constant motivation throughout the completion of this work. Her insightful suggestions and encouragement have been instrumental in the successful development of this project.
 
 ---
 
