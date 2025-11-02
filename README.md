@@ -53,7 +53,7 @@ The model utilizes a **hybrid CNN-LSTM architecture**:
 - **CNN Layers**: Used for spatial feature extraction from audio features (MFCCs).
 - **LSTM Layers**: Capture temporal dependencies in speech signals, enabling the model to understand the sequence of speech data.
   
-## Model Architecture
+## Kaggle Notebook
 [Open kaggle notebookt](Speech%20emotion%20recognition%20analysis%20using%20deep%20learning%20.ipynb)
 
 ## Preprocessing Steps
